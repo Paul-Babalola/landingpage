@@ -7,11 +7,12 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="md:flex md:justify-between md:items-center pb-10 border-b border-gray-700">
           <h2 class="text-2xl font-bold">FurniShop</h2>
-          <div class="flex space-x-10 mt-6 md:mt-0">
+          <div class="flex space-x-10 mt-6 md:mt-0 justify-between p-4">
             <a href="#" class="text-gray-400 hover:text-white"><i class="fab fa-instagram"></i></a>
             <a href="#" class="text-gray-400 hover:text-white"><i class="fab fa-facebook-f"></i></a>
             <a href="#" class="text-gray-400 hover:text-white"><i class="fab fa-twitter"></i></a>
             <a href="#" class="text-gray-400 hover:text-white"><i class="fab fa-github"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white"><i class="fab fa-instagram"></i></a>
           </div>
         </div>
 

@@ -15,7 +15,7 @@
       <p class="max-w-xl text-sm md:text-base mb-6 mt-4">
         Do I have consent to record this meeting gain locaion, root-and-<br>branch, review, nor game plan who’s the goto
       </p>
-      <button class="bg-gradient-to-r from-gray-500 to-gray-500 text-white px-11 py-3 rounded-lg font-semibold mt-6">
+      <button class="bg-[#E2E2E266] backdrop-blur-md opacity-80 text-white px-11 py-3 rounded-lg font-semibold mt-6">
         Shop Now
       </button>
     </div>
@@ -28,7 +28,7 @@
       </button>
       <ul
         :class="[
-          'flex flex-col md:flex-row md:items-center md:space-x-10 absolute md:static left-0 top-full w-full md:w-auto bg-black/80 md:bg-transparent text-center mr-6',
+          'flex flex-col md:flex-row md:items-center md:space-x-10 absolute md:static left-0 top-full w-full md:w-auto  md:bg-transparent text-center mr-6',
           isOpen ? 'block' : 'hidden md:flex'
         ]"
       >
