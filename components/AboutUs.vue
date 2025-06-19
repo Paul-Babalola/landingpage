@@ -29,7 +29,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
           </svg>
         </button>
-        <button class="w-10 h-10 rounded-full bg-green-600 text-white flex items-center justify-center hover:bg-green-700">
+        <button class="w-10 h-10 rounded-full bg-[#286F6C]  text-white flex items-center justify-center hover:bg-green-700">
           <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
           </svg>
@@ -52,7 +52,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
           </svg>
         </button>
-        <button class="w-10 h-10 rounded-full bg-green-600 text-white flex items-center justify-center hover:bg-green-700">
+        <button class="w-10 h-10 rounded-full bg-[#286F6C] text-white flex items-center justify-center hover:bg-green-700">
           <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
           </svg>

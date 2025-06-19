@@ -6,7 +6,7 @@
 
       <!-- Testimonial Text -->
       <blockquote class="text-gray-900 mb-6 text-m">
-Furnitre power is a software as services for multiperpose <br> business management system, expecially for them who are <br> running two or more business exploree the future Furnitre <br> power is a software as services \      </blockquote>
+Furnitre power is a software as services for multiperpose business management system, expecially for them who are running two or more business exploree the future Furnitre power is a software as services \      </blockquote>
 
     
     </div>

@@ -1,5 +1,6 @@
 <template>
     <Header />
+    <Stat />
     <BestFurniture />
     <Product />
     <AboutUs />
