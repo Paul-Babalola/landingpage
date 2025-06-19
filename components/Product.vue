@@ -100,7 +100,7 @@
       <div class="flex flex-col text-left shadow hover:shadow-md transition">
         <!-- Bordered box with image + button -->
         <div class="border rounded-xl p-4 w-full flex flex-col">
-          <img src="/assets/treos.jpg" alt="Product" class="w-32 h-32 object-contain mb-4 mx-auto" />
+          <img src="/assets/Treos.jpg" alt="Product" class="w-32 h-32 object-contain mb-4 mx-auto" />
           <!-- Right aligned button -->
           <div class="flex justify-end">
             <button class="w-8 h-8 rounded-full border border-gray-300 flex items-center justify-center hover:bg-gray-100">
