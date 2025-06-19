@@ -1,6 +1,6 @@
 <template>
     <div
-class="absolute mb-[30px] mt-[-60px] left-1/2 transform -translate-x-1/2 z-10 bg-teal-800 text-white rounded-2xl p-6 w-[90%] max-w-5xl grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 text-center gap-x-6 gap-y-4"
+class="absolute mb-[60%] mt-[-60px] left-1/2 transform -translate-x-1/2 z-10 bg-teal-800 text-white rounded-2xl p-6 w-[90%] max-w-5xl grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 text-center gap-x-6 gap-y-4"
     >
       <!-- Stat 1 -->
       <div class="py-4 px-2">
@@ -26,4 +26,5 @@ class="absolute mb-[30px] mt-[-60px] left-1/2 transform -translate-x-1/2 z-10 bg
         <p class="text-sm leading-tight">Variant<br />Furniture</p>
       </div>
     </div>
+    <br>
 </template>

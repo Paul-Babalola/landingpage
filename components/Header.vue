@@ -32,7 +32,7 @@
       <p class="max-w-xl text-sm md:text-base mb-6 mt-4">
         Do I have consent to record this meeting gain locaion, root-and-<br>branch, review, nor game plan who’s the goto
       </p>
-      <button class="bg-[#E2E2E266] backdrop-blur-md opacity-80 text-white px-11 py-3 rounded-lg font-semibold mt-6">
+      <button class="bg-[#E2E2E266] backdrop-blur-md opacity-80 text-white px-11 py-3 rounded-lg font-semibold mt-6 text-xl">
         Shop Now
       </button>
       <div class="absolute bottom-0 left-0 w-full h-20 bg-gradient-to-t from-white to-transparent"></div>
