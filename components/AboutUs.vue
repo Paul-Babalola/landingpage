@@ -2,7 +2,7 @@
   <section class="max-w-7xl mx-auto px-4 py-16 grid md:grid-cols-2 gap-10 items-center">
     <!-- Left: Testimonial -->
     <div>
-      <h2 class="text-2xl font-bold text-gray-900 mb-6">What People Are Saying About Us</h2>
+      <h2 class="text-2xl max-w-2xs md:max-w-[635px] md:text-4xl font-semibold text-gray-900 mb-6">What People Are Saying About Us</h2>
 
       <!-- User Info -->
       <div class="flex items-center space-x-4 mb-4">

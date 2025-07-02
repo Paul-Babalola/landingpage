@@ -27,4 +27,5 @@ class="absolute mb-[60%] mt-[-60px] left-1/2 transform -translate-x-1/2 z-10 bg-
       </div>
     </div>
     <br>
+    <div class="mb-[50%] md:mb-[8%]"></div>
 </template>

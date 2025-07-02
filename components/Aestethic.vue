@@ -1,5 +1,5 @@
 <template>
-<section class="max-w-7xl mx-auto px-4 py-16 grid grid-cols-1 md:grid-cols-2 gap-10 items-center mt-[20%] relative">
+<section class="max-w-7xl mx-auto px-4 py-0 grid grid-cols-1 md:grid-cols-2 gap-10 items-center relative">
   <!-- Image -->
   <div>
     <img src="/assets/graysofa.jpg" alt="Living Room" class="rounded-xl w-full h-90 hidden md:block" />
