@@ -1,11 +1,15 @@
 <template>
   <div class="relative h-screen w-screen">
     <!-- Background image -->
-    <img
-      src="/assets/sofa.jpg"
-      alt="Sofa"
-      class="w-full h-full object-cover object-center absolute top-0 left-0 z-0"
-    />
+ <NuxtImg
+  src="/sofa.jpg"
+  format="webp"
+  placeholder="blur"
+  alt="Sofa"
+  class="w-full h-full object-cover object-center absolute top-0 left-0 z-0"
+/>
+
+
 
     <!-- Navbar -->
     <nav class="absolute top-0 left-0 w-full text-white flex items-center justify-between px-5 md:px-64 py-4 z-20">
