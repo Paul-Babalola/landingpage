@@ -1,6 +1,6 @@
 <template>
   <section
-    class="max-w-7xl mx-auto px-4 py-16 grid md:grid-cols-2 gap-10 items-center"
+    class="max-w-7xl mx-auto px-4 py-5 grid md:grid-cols-2 gap-10 items-center"
   >
     <!-- Left: Testimonial -->
     <div>

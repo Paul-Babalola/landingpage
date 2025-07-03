@@ -25,7 +25,7 @@
       <ul class="space-y-4">
         <li class="flex items-start space-x-3">
           <span class="text-green-600 mt-1">
-            <i class="fas fa-check-circle"></i>
+            <i class="fas fa-check-circle text-black"></i>
           </span>
           <div>
             <p class="font-semibold">Valuation Services</p>
@@ -38,7 +38,7 @@
 
         <li class="flex items-start space-x-3">
           <span class="text-green-600 mt-1">
-            <i class="fas fa-check-circle"></i>
+            <i class="fas fa-check-circle text-black"></i>
           </span>
           <div>
             <p class="font-semibold">Development of Furniture Models</p>

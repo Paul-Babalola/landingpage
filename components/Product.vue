@@ -42,10 +42,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">Ceiling Light</h3>
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
+          Ceiling Light
+        </h3>
         <div class="text-sm">
-          <span class="text-base font-bold mr-2">$75.00</span>
-          <span class="line-through text-base text-gray-400">$82.00</span>
+          <span class="text-xs font-normal mr-2">$75.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$82.00</span
+          >
         </div>
       </div>
 
@@ -80,10 +84,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">Wood Chair</h3>
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
+          Wood Chair
+        </h3>
         <div class="text-sm">
-          <span class="text-base font-bold mr-2">$50.00</span>
-          <span class="line-through text-base text-gray-400">$70.00</span>
+          <span class="text-xs font-normal mr-2">$50.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$70.00</span
+          >
         </div>
       </div>
 
@@ -118,12 +126,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
           Paper Cupboard
         </h3>
         <div class="text-sm">
-          <span class="text-base font-bold mr-2">$105.00</span>
-          <span class="line-through text-base text-gray-400">$120.00</span>
+          <span class="text-xs font-normal mr-2">$105.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$120.00</span
+          >
         </div>
       </div>
 
@@ -158,10 +168,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">Ceiling Light</h3>
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
+          Ceiling Light
+        </h3>
         <div class="text-sm">
-          <span class="text-base font-bold mr-2">$82.00</span>
-          <span class="line-through text-base text-gray-400">$100.00</span>
+          <span class="text-xs font-normal mr-2">$82.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$100.00</span
+          >
         </div>
       </div>
 
@@ -196,12 +210,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
           Treos Sereos 911
         </h3>
         <div class="text-sm">
-          <span class="text-base font-bold mr-2">$200.00</span>
-          <span class="line-through text-base text-gray-400">$210.00</span>
+          <span class="text-xs font-normal mr-2">$200.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$210.00</span
+          >
         </div>
       </div>
 
@@ -236,12 +252,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
           Multi bilderman slibber...
         </h3>
         <div class="text-sm">
-          <span class="text-base font-bold mr-2">$45.00</span>
-          <span class="line-through text-base text-gray-400">$50.00</span>
+          <span class="text-xs font-normal mr-2">$45.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$50.00</span
+          >
         </div>
       </div>
 
@@ -276,12 +294,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
           XORA Corner Desk
         </h3>
         <div class="text-sm">
-          <span class="text-base font-bold mr-2">$320.00</span>
-          <span class="line-through text-base text-gray-400">$325.00</span>
+          <span class="text-xs font-normal mr-2">$320.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$325.00</span
+          >
         </div>
       </div>
 
@@ -316,12 +336,14 @@
         </div>
 
         <!-- Name & Price outside border, left-aligned -->
-        <h3 class="font-semibold text-2xl mt-4 mb-1 truncate">
+        <h3 class="font-semibold text-base md:text-2xl mt-4 mb-1 truncate">
           Black Forest Series wo...
         </h3>
         <div class="text-base">
-          <span class="text-black font-bold mr-2">$225.00</span>
-          <span class="line-through text-gray-400">$240.00</span>
+          <span class="text-xs font-normal mr-2">$225.00</span>
+          <span class="line-through text-xs font-normal text-gray-400"
+            >$240.00</span
+          >
         </div>
       </div>
     </div>
@@ -331,19 +353,11 @@
       <button
         class="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center hover:bg-gray-100"
       >
-        <svg
-          class="w-4 h-4 text-gray-800"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          viewBox="0 0 24 24"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            d="M15 19l-7-7 7-7"
-          />
-        </svg>
+        <img
+          src="/assets/arrow-rightwhite.svg"
+          alt="Left Arrow"
+          class="w-4 h-4"
+        />
       </button>
 
       <div class="flex space-x-2">
@@ -357,19 +371,11 @@
       <button
         class="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center hover:bg-gray-100"
       >
-        <svg
-          class="w-4 h-4 text-gray-800"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          viewBox="0 0 24 24"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            d="M9 5l7 7-7 7"
-          />
-        </svg>
+        <img
+          src="/assets/arrow-right.svg"
+          alt="Left Arrow"
+          class="rotate-180 w-4 h-4"
+        />
       </button>
     </div>
   </section>

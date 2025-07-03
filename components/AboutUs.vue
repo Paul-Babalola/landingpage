@@ -34,36 +34,12 @@
         <button
           class="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center hover:bg-gray-100"
         >
-          <svg
-            class="w-4 h-4 text-gray-800"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            viewBox="0 0 24 24"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M15 19l-7-7 7-7"
-            />
-          </svg>
+          <img src="/assets/arrow-right.svg" alt="Left Arrow" />
         </button>
         <button
           class="w-10 h-10 rounded-full bg-[#286F6C] text-white flex items-center justify-center hover:bg-green-700"
         >
-          <svg
-            class="w-4 h-4"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            viewBox="0 0 24 24"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M9 5l7 7-7 7"
-            />
-          </svg>
+          <img src="/assets/arrow-left.svg" alt="right Arrow" />
         </button>
       </div>
     </div>
@@ -81,36 +57,12 @@
         <button
           class="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center hover:bg-gray-100"
         >
-          <svg
-            class="w-4 h-4 text-gray-800"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            viewBox="0 0 24 24"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M15 19l-7-7 7-7"
-            />
-          </svg>
+          <img src="/assets/arrow-right.svg" alt="Left Arrow" />
         </button>
         <button
           class="w-10 h-10 rounded-full bg-[#286F6C] text-white flex items-center justify-center hover:bg-green-700"
         >
-          <svg
-            class="w-4 h-4"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            viewBox="0 0 24 24"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M9 5l7 7-7 7"
-            />
-          </svg>
+          <img src="/assets/arrow-left.svg" alt="right Arrow" />
         </button>
       </div>
     </div>

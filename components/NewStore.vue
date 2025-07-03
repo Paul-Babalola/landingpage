@@ -23,12 +23,15 @@
     </div>
 
     <!-- Right Product Cards -->
-    <div class="md:col-span-3 overflow-x-auto">
+    <div class="md:col-span-3 scrollbar-custom overflow-x-auto">
       <div class="flex space-x-4">
         <!-- Card 1 -->
         <div
           class="min-w-[160px] sm:min-w-[200px] relative rounded-xl overflow-hidden"
         >
+          <div
+            class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-0 z-10"
+          ></div>
           <img
             src="/assets/graysofa.jpg"
             alt="Chair"
@@ -45,10 +48,13 @@
         <div
           class="min-w-[160px] sm:min-w-[200px] relative rounded-xl overflow-hidden"
         >
+          <div
+            class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-10 z-10"
+          ></div>
           <img
             src="/assets/bed.jpg"
             alt="Bed"
-            class="w-full h-full object-cover"
+            class="w-full h-full object-cover bg-linear-gradient-to-r from-gray-800 to-black-600"
           />
           <div
             class="absolute bottom-2 left-19 font-semibold text-white px-3 py-4 rounded-md text-xl"
@@ -61,13 +67,21 @@
         <div
           class="min-w-[160px] sm:min-w-[200px] relative rounded-xl overflow-hidden"
         >
+          <!-- Gradient overlay -->
+          <div
+            class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-60 z-10"
+          ></div>
+
+          <!-- Image -->
           <img
             src="/assets/browncupboard.jpg"
             alt="Cupboard"
             class="w-full h-full object-cover"
           />
+
+          <!-- Text on top of gradient -->
           <div
-            class="absolute bottom-2 left-11 font-semibold text-white px-3 py-4 rounded-md text-xl"
+            class="absolute bottom-2 left-11 font-semibold text-white px-3 py-4 rounded-md text-xl z-20"
           >
             Cupboard
           </div>
@@ -77,13 +91,21 @@
         <div
           class="min-w-[160px] sm:min-w-[200px] relative rounded-xl overflow-hidden"
         >
+          <!-- Gradient Overlay -->
+          <div
+            class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-60 z-10"
+          ></div>
+
+          <!-- Image -->
           <img
             src="/assets/light.jpg"
             alt="Lighting"
             class="w-full h-full object-cover"
           />
+
+          <!-- Text -->
           <div
-            class="absolute bottom-2 left-14 font-semibold text-white px-3 py-4 rounded-md text-xl"
+            class="absolute bottom-2 left-14 font-semibold text-white px-3 py-4 rounded-md text-xl z-20"
           >
             Lighting
           </div>

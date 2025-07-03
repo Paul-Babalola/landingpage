@@ -15,7 +15,7 @@
     </div>
 
     <!-- Stat 3 -->
-    <div class="py-4 px-2">
+    <div class="py-4 md:border-l md:border-white px-2">
       <p class="text-2xl font-bold">10k+</p>
       <p class="text-sm leading-tight">Furniture<br />sold</p>
     </div>
